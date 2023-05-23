@@ -16,8 +16,23 @@ class UnitDatasheet(models.Model):
     abilities = models.CharField(max_length=500)
     point_value = models.IntegerField()
     image = models.URLField(null = True, blank = True)
-    # weapon = the weapons associated with that unit
-    # wargear_options = the optional wargear associated with that unit
+    wargear_options = models.CharField(max_length=500, null = True, blank = True)
+    wargear_options_points = models.IntegerField(null = True, blank = True)
+    upgrades = models.CharField(max_length=500, null = True, blank = True)
+    upgrades_points = models.IntegerField(null = True, blank = True)
+    # wargear = the weapons associated with that unit
+
+    def __str__(self):
+        return self.name
+    
+class Wargear(models.Model):
+    name = models.CharField(max_length=100)
+    range = models.CharField(max_length=100)
+    type = models.CharField(max_length=100)
+    strength = models.CharField(max_length=100)
+    armor_penetration = models.IntegerField()
+    damage = models.CharField(max_length=200)
+    abilities = models.CharField(max_length=500)
 
     def __str__(self):
         return self.name

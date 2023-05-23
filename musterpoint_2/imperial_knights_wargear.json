@@ -1,0 +1,319 @@
+{
+    "wargear": [
+        {
+            "name": "ironstorm missile pod",
+            "range": "72",
+            "type": "heavy D6",
+            "strength": "5",
+            "armor_penetration": 1,
+            "damage": "2",
+            "abilities": "Indirect Fire. Blast. This weapon can target units that are not visible to the bearer."
+        },
+        {
+            "name": "stormspear missile pod",
+            "range": "48",
+            "type": "heavy 3",
+            "strength": "8",
+            "armor_penetration": 2,
+            "damage": "D6",
+            "abilities": "-"
+        },
+        {
+            "name": "twin icarus autocannon",
+            "range": "48",
+            "type": "heavy 4",
+            "strength": "7",
+            "armor_penetration": 1,
+            "damage": "2",
+            "abilities": "Each time an attack is made with this weapon against an AIRCRAFT unit, add 1 to that attack’s hit roll."
+        },
+        {
+            "name": "armiger autocannon",
+            "range": "60",
+            "type": "heavy 2D3",
+            "strength": "7",
+            "armor_penetration": 2,
+            "damage": "3",
+            "abilities": "-"
+        },
+        {
+            "name": "thermal spear",
+            "range": "30",
+            "type": "heavy 2",
+            "strength": "9",
+            "armor_penetration": 4,
+            "damage": "D6",
+            "abilities": "Each time an attack made with this weapon targets a unit within half range, that attack has a damage characteristic of D6+2."
+        },
+        {
+            "name": "reaper chain-cleaver (Strike)",
+            "range": "melee",
+            "type": "melee",
+            "strength": "+4",
+            "armor_penetration": 4,
+            "damage": "3",
+            "abilities": "-"
+        },
+        {
+            "name": "reaper chain-cleaver (Sweep)",
+            "range": "melee",
+            "type": "melee",
+            "strength": "User",
+            "armor_penetration": 3,
+            "damage": "1",
+            "abilities": "Each time an attack is made with this weapon profile, make 2 hit rolls instead of 1."
+        },
+        {
+            "name": "meltagun",
+            "range": "12",
+            "type": "assualt 1",
+            "strength": "8",
+            "armor_penetration": 4,
+            "damage": "D6",
+            "abilities": "Each time an attack made with this weapon targets a unit within half range, that attack has a damage characteristic of D6+2."
+        },
+        {
+            "name": "questor cognis heavy stubber",
+            "range": "36",
+            "type": "assualt 4",
+            "strength": "4",
+            "armor_penetration": 0,
+            "damage": "1",
+            "abilities": "-"
+        },
+        {
+            "name": "questor ironhail heavy stubber",
+            "range": "36",
+            "type": "heavy 4",
+            "strength": "4",
+            "armor_penetration": 1,
+            "damage": "1",
+            "abilities": "-"
+        },
+        {
+            "name": "preceptor multi-laser",
+            "range": "36",
+            "type": "heavy 4",
+            "strength": "6",
+            "armor_penetration": 0,
+            "damage": "1",
+            "abilities": "-"
+        },
+        {
+            "name": "heavy flamer",
+            "range": "12",
+            "type": "heavy D6",
+            "strength": "5",
+            "armor_penetration": 1,
+            "damage": "1",
+            "abilities": "Each time an attack is made with this weapon, that attack automatically hits the target."
+        },
+        {
+            "name": "thermal cannon",
+            "range": "30",
+            "type": "heavy 2D3",
+            "strength": "9",
+            "armor_penetration": 4,
+            "damage": "D6+2",
+            "abilities": "Each time an attack made with this weapon targets a unit within half range, that attack has a damage characteristic of D6+4."
+        },
+        {
+            "name": "avenger gatling cannon",
+            "range": "36",
+            "type": "heavy 12",
+            "strength": "6",
+            "armor_penetration": 2,
+            "damage": "2",
+            "abilities": "-"
+        },
+        {
+            "name": "rapid-fire battle cannon",
+            "range": "72",
+            "type": "heavy 2D6",
+            "strength": "8",
+            "armor_penetration": 2,
+            "damage": "3",
+            "abilities": "Blast"
+        },
+        {
+            "name": "las-impulsor (low-intensity)",
+            "range": "36",
+            "type": "heavy 2D6",
+            "strength": "6",
+            "armor_penetration": 2,
+            "damage": "2",
+            "abilities": "Blast"
+        },
+        {
+            "name": "las-impulsor (high-intensity)",
+            "range": "24",
+            "type": "heavy D6",
+            "strength": "12",
+            "armor_penetration": 4,
+            "damage": "4",
+            "abilities": "Blast"
+        },
+        {
+            "name": "plasma decimator (Standard)",
+            "range": "48",
+            "type": "heavy 2D6",
+            "strength": "8",
+            "armor_penetration": 4,
+            "damage": "2",
+            "abilities": "Blast"
+        },
+        {
+            "name": "plasma decimator (Supercharge)",
+            "range": "48",
+            "type": "heavy 2D6",
+            "strength": "9",
+            "armor_penetration": 4,
+            "damage": "3",
+            "abilities": "Blast. Each time an unmodified hit roll of 1 is made for an attack with this weapon profile, the bearer suffers 2 mortal wounds after shooting with this weapon profile."
+        },
+        {
+            "name": "volcano lance",
+            "range": "80",
+            "type": "heavy D3",
+            "strength": "16",
+            "armor_penetration": 5,
+            "damage": "D6+8",
+            "abilities": "Blast"
+        },
+        {
+            "name": "conflagration cannon",
+            "range": "18",
+            "type": "heavy 3D3",
+            "strength": "7",
+            "armor_penetration": 2,
+            "damage": "2",
+            "abilities": "Each time an attack is made with this weapon, that attack automatically hits the target."
+        },
+        {
+            "name": "thundercoil harpoon",
+            "range": "18",
+            "type": "heavy 1",
+            "strength": "16",
+            "armor_penetration": 6,
+            "damage": "10",
+            "abilities": "Each time an attack is made with this weapon against an MONSTER or VEHICLE unit (excluding AIRCRAFT), add 1 to that attack's hit roll. Each time an attack made with this weapon is allocated to a model, that model's unit suffers 3 mortal wounds in addition to the normal damage."
+        },
+        {
+            "name": "shieldbreaker missile",
+            "range": "48",
+            "type": "heavy 1",
+            "strength": "10",
+            "armor_penetration": 4,
+            "damage": "D6",
+            "abilities": "Each time the bearer is selected to shoot, it can only make attacks with one shieldbreaker missile, and it can only shoot each shieldbreaker missile it is equipped with once per battle. Each time an attack is made with this weapon, invulnerable saving throws cannot be made against that attack."
+        },
+        {
+            "name": "twin siegebreaker cannon",
+            "range": "36",
+            "type": "heavy 2D3",
+            "strength": "7",
+            "armor_penetration": 1,
+            "damage": "2",
+            "abilities": "Blast"
+        },
+        {
+            "name": "twin meltagun",
+            "range": "12",
+            "type": "assault 2",
+            "strength": "8",
+            "armor_penetration": 4,
+            "damage": "D6",
+            "abilities": "Each time an attack made with this weapon targets a unit within half range, that attack has a Damage characteristic of D6+2."
+        },
+        {
+            "name": "reaper chainsword (Strike)",
+            "range": "melee",
+            "type": "melee",
+            "strength": "+6",
+            "armor_penetration": 4,
+            "damage": "6",
+            "abilities": "-"
+        },
+        {
+            "name": "reaper chainsword (Sweep)",
+            "range": "melee",
+            "type": "melee",
+            "strength": "User",
+            "armor_penetration": 3,
+            "damage": "2",
+            "abilities": "Each time an attack is made with this weapon profile, make 3 hit rolls instead of 1."
+        },
+        {
+            "name": "thunderstrike gauntlet (Strike)",
+            "range": "melee",
+            "type": "melee",
+            "strength": "x2",
+            "armor_penetration": 3,
+            "damage": "8",
+            "abilities": "-"
+        },
+        {
+            "name": "thunderstrike gauntlet (Sweep)",
+            "range": "melee",
+            "type": "melee",
+            "strength": "+2",
+            "armor_penetration": 2,
+            "damage": "3",
+            "abilities": "Each time an attack is made with this weapon profile, make 2 hit rolls instead of 1."
+        },
+        {
+            "name": "titanic feet",
+            "range": "melee",
+            "type": "melee",
+            "strength": "user",
+            "armor_penetration": 2,
+            "damage": "2",
+            "abilities": "-"
+        },
+        {
+            "name": "freedom's hand (Strike)",
+            "range": "melee",
+            "type": "melee",
+            "strength": "x2",
+            "armor_penetration": 4,
+            "damage": "8",
+            "abilities": "Each time an attack is made with this weapon profile, an unmodified wound roll of 6 inflicts D3 mortal wounds on the target in addition to the normal damage."
+        },
+        {
+            "name": "freedom's hand (Sweep)",
+            "range": "melee",
+            "type": "melee",
+            "strength": "+2",
+            "armor_penetration": 2,
+            "damage": "3",
+            "abilities": "Each time an attack is made with this weapon profile, make 2 hit rolls instead of 1 and an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to the normal damage."
+        },
+        {
+            "name": "asterius volkite culverin",
+            "range": "45",
+            "type": "heavy 4",
+            "strength": "6",
+            "armor_penetration": 0,
+            "damage": "2",
+            "abilities": "Each time an attack is made with this weapon, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any normal damage."
+        },
+        {
+            "name": "karacnos mortar battery",
+            "range": "60",
+            "type": "heavy 3D3",
+            "strength": "5",
+            "armor_penetration": 1,
+            "damage": "1",
+            "abilities": "Blast. Each time an attack is made with this weapon, a wound roll of 2+ is always successful, unless the target is a VEHICLE or TITANIC unit."
+        },
+        {
+            "name": "twin conversion beam cannon",
+            "range": "72",
+            "type": "heavy 2D3",
+            "strength": "16",
+            "armor_penetration": 3,
+            "damage": "6",
+            "abilities": "-"
+        }
+    ]
+}

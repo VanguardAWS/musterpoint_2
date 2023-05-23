@@ -1,0 +1,679 @@
+{
+    "imperial_knight_unit": [
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "armiger helverin",
+            "movement": 12,
+            "weapon_skill": 3,
+            "ballistic_skill": 3,
+            "strength": 6,
+            "toughness": 7,
+            "wounds": 12,
+            "attacks": 4,
+            "leadership": 8,
+            "armor_save": 3,
+            "abilities": "ion shields, code chivalric, armiger squadron, explodes",
+            "point_value": 155,
+            "wargear": [
+                "armiger autocannon",
+                "meltagun",
+                "questor cognis heavy stubber",
+                "questor ironhail heavy stubber"
+            ],
+            "wargear_options": [
+                "If this unit has the QUESTOR MECHANICUS keyword, any number of models can each have their meltagun replaced with 1 Questor cognis heavy stubber.",
+                " If this unit has the QUESTOR IMPERIALIS keyword, any number of models can each have their meltagun replaced with 1 Questor ironhail heavy stubber."
+            ],
+            "wargear_options_points": [
+                -5,
+                -5
+            ],
+            "upgrades": [
+            ],
+            "upgrades_points": [
+            ],
+            "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108015_IKArmigerHelverins01.jpg"
+        },
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "armiger warglaive",
+            "movement": 12,
+            "weapon_skill": 3,
+            "ballistic_skill": 3,
+            "strength": 6,
+            "toughness": 7,
+            "wounds": 12,
+            "attacks": 4,
+            "leadership": 8,
+            "armor_save": 3,
+            "abilities": "ion shields, code chivalric, armiger squadron, explodes",
+            "point_value": 145,
+            "wargear": [
+                "thermal spear",
+                "meltagun",
+                "questor cognis heavy stubber",
+                "questor ironhail heavy stubber",
+                "reaper chain-cleaver (Strike)",
+                "reaper chain-cleaver (Sweep)"
+            ],
+            "wargear_options": [
+                "If this unit has the QUESTOR MECHANICUS keyword, any number of models can each have their meltagun replaced with 1 Questor cognis heavy stubber.",
+                "If this unit has the QUESTOR IMPERIALIS keyword, any number of models can each have their meltagun replaced with 1 Questor ironhail heavy stubber."
+            ],
+            "wargear_options_points": [
+                -5,
+                -5
+            ],  
+            "upgrades": [
+            ],
+            "upgrades_points": [
+            ],          
+            "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108019_ImperialKnightsArmiger01.jpg"
+        },
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "knight errant",
+            "movement": 10,
+            "weapon_skill": 3,
+            "ballistic_skill": 3,
+            "strength": 8,
+            "toughness": 8,
+            "wounds": 24,
+            "attacks": 4,
+            "leadership": 9,
+            "armor_save": 3,
+            "abilities": "ion shields, super-heavy walker, errant's duty, code chivalric, explodes",
+            "point_value": 425,
+            "wargear": [
+                "thermal cannon",
+                "meltagun",
+                "questor cognis heavy stubber",
+                "questor ironhail heavy stubber",
+                "ironstorm missile pod",
+                "stromspear rocket pod",
+                "twin icarus autocannon",
+                "reaper chainsword (Strike)",
+                "reaper chainsword (Sweep)",
+                "thunderstrike gauntlet (Strike)",
+                "thunderstrike gauntlet (Sweep)",
+                "titanic feet"
+            ],
+            "wargear_options": [
+                "If this model has the QUESTOR MECHANICUS keyword, its meltagun can be replaced with 1 Questor cognis heavy stubber.",
+                "If this model has the QUESTOR IMPERIALIS keyword, its meltagun can be replaced with 1 Questor ironhail heavy stubber.",
+                "This model's reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+                "This model can be equipped with one of the following: 1 ironstorm missile pod;",
+                "1 stormspear rocket pod;",
+                "1 twin Icarus autocannon."
+            ],
+            "wargear_options_points": [
+                -5,
+                -5,
+                0,
+                20,
+                40,
+                20
+            ],
+            "upgrades": [
+                "master of justice",
+                "high monarch",
+                "monarchsward",
+                "gatekeeper",
+                "herald",
+                "princeps",
+                "forge master",
+                "master tactician",
+                "master of lore",
+                "master of vox"
+            ],
+            "upgrades_points": [
+                30,
+                45,
+                35,
+                35,
+                20,
+                35,
+                30,
+                30,
+                35,
+                20
+            ],            
+            "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108017_ErrantLead.jpg"
+        },
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "knight warden",
+            "movement": 10,
+            "weapon_skill": 3,
+            "ballistic_skill": 3,
+            "strength": 8,
+            "toughness": 8,
+            "wounds": 24,
+            "attacks": 4,
+            "leadership": 9,
+            "armor_save": 3,
+            "abilities": "ion shields, super-heavy walker, warden's duty, code chivalric, explodes",
+            "point_value": 435,
+            "wargear": [
+                "avenger gatling cannon",
+                "heavy flamer",
+                "meltagun",
+                "questor cognis heavy stubber",
+                "questor ironhail heavy stubber",
+                "ironstorm missile pod",
+                "stromspear rocket pod",
+                "twin icarus autocannon",
+                "reaper chainsword (Strike)",
+                "reaper chainsword (Sweep)",
+                "thunderstrike gauntlet (Strike)",
+                "thunderstrike gauntlet (Sweep)",
+                "titanic feet"
+            ],
+            "wargear_options": [
+                "If this model has the QUESTOR MECHANICUS keyword, its meltagun can be replaced with 1 Questor cognis heavy stubber.",
+                "If this model has the QUESTOR IMPERIALIS keyword, its meltagun can be replaced with 1 Questor ironhail heavy stubber.",
+                "This model's reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+                "This model can be equipped with one of the following: 1 ironstorm missile pod;",
+                "1 stormspear rocket pod;",
+                "1 twin Icarus autocannon."
+            ],
+            "wargear_options_points": [
+                -5,
+                -5,
+                0,
+                20,
+                40,
+                20
+            ],
+            "upgrades": [
+                "master of justice",
+                "high monarch",
+                "monarchsward",
+                "gatekeeper",
+                "herald",
+                "princeps",
+                "forge master",
+                "master tactician",
+                "master of lore",
+                "master of vox"
+            ],
+            "upgrades_points": [
+                30,
+                45,
+                35,
+                35,
+                20,
+                35,
+                30,
+                30,
+                35,
+                20
+            ],  
+            "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108017_WardenLead.jpg"
+        },
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "knight crusader",
+            "movement": 10,
+            "weapon_skill": 3,
+            "ballistic_skill": 3,
+            "strength": 8,
+            "toughness": 8,
+            "wounds": 24,
+            "attacks": 4,
+            "leadership": 9,
+            "armor_save": 3,
+            "abilities": "ion shields, super-heavy walker, crusader's duty, code chivalric, explodes",
+            "point_value": 485,
+            "wargear": [
+                "avenger gatling cannon",
+                "heavy flamer",
+                "thermal cannon",
+                "meltagun",
+                "questor cognis heavy stubber",
+                "questor ironhail heavy stubber",
+                "rapid-fire battle cannon",
+                "ironstorm missile pod",
+                "stromspear rocket pod",
+                "twin icarus autocannon",
+                "titanic feet"
+            ],
+            "wargear_options": [
+                "If this model has the QUESTOR MECHANICUS keyword, its meltagun can be replaced with 1 Questor cognis heavy stubber.",
+                "If this model has the QUESTOR MECHANICUS keyword, its thermal cannon can be replaced with: 1 rapid-fire battle cannon and 1 Questor cognis heavy stubber.",
+                "If this model has the QUESTOR IMPERIALIS keyword, its meltagun can be replaced with 1 Questor ironhail heavy stubber.",
+                "If this model has the QUESTOR IMPERIALIS keyword, its thermal cannon can be replaced with 1 rapid-fire battle cannon and 1 Questor ironhail heavy stubber.",
+                "This model can be equipped with one of the following: 1 ironstorm missile pod;",
+                "1 stormspear rocket pod;",
+                "1 twin Icarus autocannon."
+            ],
+            "wargear_options_points": [
+                -5,
+                0,
+                -5,
+                0,
+                20,
+                40,
+                20
+            ],  
+            "upgrades": [
+                "master of justice",
+                "high monarch",
+                "monarchsward",
+                "gatekeeper",
+                "herald",
+                "princeps",
+                "forge master",
+                "master tactician",
+                "master of lore",
+                "master of vox"
+            ],
+            "upgrades_points": [
+                30,
+                45,
+                35,
+                35,
+                20,
+                35,
+                30,
+                30,
+                35,
+                20
+            ],
+            "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108017_CrusaderLead.jpg"
+        },
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "knight gallant",
+            "movement": 12,
+            "weapon_skill": 2,
+            "ballistic_skill": 3,
+            "strength": 8,
+            "toughness": 8,
+            "wounds": 24,
+            "attacks": 4,
+            "leadership": 9,
+            "armor_save": 3,
+            "abilities": "ion shields, super-heavy walker, gallant's duty, code chivalric, explodes",
+            "point_value": 400,
+            "wargear": [
+                "meltagun",
+                "questor cognis heavy stubber",
+                "questor ironhail heavy stubber",
+                "ironstorm missile pod",
+                "stromspear rocket pod",
+                "twin icarus autocannon",
+                "reaper chainsword (Strike)",
+                "reaper chainsword (Sweep)",
+                "thunderstrike gauntlet (Strike)",
+                "thunderstrike gauntlet (Sweep)",
+                "titanic feet"
+            ],
+            "wargear_options": [
+                "If this model has the QUESTOR MECHANICUS keyword, its meltagun can be replaced with 1 Questor cognis heavy stubber.",
+                "If this model has the QUESTOR IMPERIALIS keyword, its meltagun can be replaced with 1 Questor ironhail heavy stubber.",
+                "This model can be equipped with one of the following: 1 ironstorm missile pod;",
+                "1 stormspear rocket pod;",
+                "1 twin Icarus autocannon."
+            ],
+            "wargear_options_points": [
+                -5,
+                -5,
+                20,
+                40,
+                20
+            ],  
+            "upgrades": [
+                "master of justice",
+                "high monarch",
+                "monarchsward",
+                "gatekeeper",
+                "herald",
+                "princeps",
+                "forge master",
+                "master tactician",
+                "master of lore",
+                "master of vox"
+            ],
+            "upgrades_points": [
+                30,
+                45,
+                35,
+                35,
+                20,
+                35,
+                30,
+                30,
+                35,
+                20
+            ],
+            "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108017_GallantLead.jpg"
+        },
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "knight paladin",
+            "movement": 10,
+            "weapon_skill": 3,
+            "ballistic_skill": 3,
+            "strength": 8,
+            "toughness": 8,
+            "wounds": 24,
+            "attacks": 4,
+            "leadership": 9,
+            "armor_save": 3,
+            "abilities": "ion shields, super-heavy walker, paladin's duty, code chivalric, explodes",
+            "point_value": 425,
+            "wargear": [
+                "rapid-fire battle cannon",
+                "meltagun",
+                "questor cognis heavy stubber",
+                "questor ironhail heavy stubber",
+                "ironstorm missile pod",
+                "stromspear rocket pod",
+                "twin icarus autocannon",
+                "reaper chainsword (Strike)",
+                "reaper chainsword (Sweep)",
+                "thunderstrike gauntlet (Strike)",
+                "thunderstrike gauntlet (Sweep)",
+                "titanic feet"
+            ],
+            "wargear_options": [
+                "If this model has the QUESTOR MECHANICUS keyword, its meltagun can be replaced with 1 Questor cognis heavy stubber.",
+                "If this model has the QUESTOR IMPERIALIS keyword, its meltagun can be replaced with 1 Questor ironhail heavy stubber.",
+                "This model's reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+                "This model can be equipped with one of the following: 1 ironstorm missile pod;",
+                "1 stormspear rocket pod;",
+                "1 twin Icarus autocannon."
+            ],
+            "wargear_options_points": [
+                -5,
+                -5,
+                0,
+                20,
+                40,
+                20
+            ],  
+            "upgrades": [
+                "master of justice",
+                "high monarch",
+                "monarchsward",
+                "gatekeeper",
+                "herald",
+                "princeps",
+                "forge master",
+                "master tactician",
+                "master of lore",
+                "master of vox"
+            ],
+            "upgrades_points": [
+                30,
+                45,
+                35,
+                35,
+                20,
+                35,
+                30,
+                30,
+                35,
+                20
+            ],
+            "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108017_PaladinLead.jpg"
+        },
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "knight preceptor",
+            "movement": 10,
+            "weapon_skill": 3,
+            "ballistic_skill": 3,
+            "strength": 8,
+            "toughness": 8,
+            "wounds": 24,
+            "attacks": 4,
+            "leadership": 9,
+            "armor_save": 3,
+            "abilities": "ion shields, super-heavy walker, code chivalric, explodes",
+            "point_value": 420,
+            "wargear": [
+                "las-impulsor (low-intensity)",
+                "las-impulsor (high-intensity)",
+                "preceptor multi-laser",
+                "meltagun",
+                "questor cognis heavy stubber",
+                "questor ironhail heavy stubber",
+                "ironstorm missile pod",
+                "stromspear rocket pod",
+                "twin icarus autocannon",
+                "reaper chainsword (Strike)",
+                "reaper chainsword (Sweep)",
+                "thunderstrike gauntlet (Strike)",
+                "thunderstrike gauntlet (Sweep)",
+                "titanic feet"
+            ],
+            "wargear_options": [
+                "If this model has the QUESTOR MECHANICUS keyword, its Preceptor multi-laser can be replaced with one of the following: 1 meltagun; 1 Questor cognis heavy stubber.",
+                "If this model has the QUESTOR IMPERIALIS keyword, its Preceptor multi-laser can be replaced with one of the following: 1 meltagun; 1 Questor ironhail heavy stubber.",
+                "This model's reaper chainsword can be replaced with 1 thunderstrike gauntlet.",
+                "This model can be equipped with one of the following: 1 ironstorm missile pod;",
+                "1 stormspear rocket pod;",
+                "1 twin Icarus autocannon."
+            ],
+            "wargear_options_points": [
+                -5,
+                -5,
+                0,
+                20,
+                40,
+                20
+            ],
+            "upgrades": [
+                "master of justice",
+                "high monarch",
+                "monarchsward",
+                "gatekeeper",
+                "herald",
+                "princeps",
+                "forge master",
+                "master tactician",
+                "master of lore",
+                "master of vox"
+            ],
+            "upgrades_points": [
+                30,
+                45,
+                35,
+                35,
+                20,
+                35,
+                30,
+                30,
+                35,
+                20
+            ],
+            "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108018_ImperialKnightValiant01.jpg"
+        },
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "knight castellan",
+            "movement": 8,
+            "weapon_skill": 4,
+            "ballistic_skill": 3,
+            "strength": 8,
+            "toughness": 8,
+            "wounds": 28,
+            "attacks": 4,
+            "leadership": 9,
+            "armor_save": 2,
+            "abilities": "ion shields, super-heavy walker, code chivalric, explodes",
+            "point_value": 610,
+            "wargear": [
+                "plasma decimator (Standard)",
+                "plasma decimator (Supercharge)",
+                "volcano lance",
+                "twin meltagun",
+                "shieldbreaker missile",
+                "twin siegebreaker cannon",
+                "titanic feet"
+            ],
+            "wargear_options": [
+                "This model's 4 shieldbreaker missiles and twin siegebreaker cannon can be replaced with 2 shieldbreaker missiles and 2 twin siegebreaker cannons."
+            ],
+            "wargear_options_points": [
+                15
+            ],
+            "upgrades": [
+                "master of justice",
+                "high monarch",
+                "monarchsward",
+                "gatekeeper",
+                "herald",
+                "princeps",
+                "forge master",
+                "master tactician",
+                "master of lore",
+                "master of vox"
+            ],
+            "upgrades_points": [
+                30,
+                45,
+                35,
+                35,
+                20,
+                35,
+                30,
+                30,
+                35,
+                20
+            ],
+            "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108016_IKCastellan01.jpg"
+        },
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "knight valiant",
+            "movement": 8,
+            "weapon_skill": 4,
+            "ballistic_skill": 3,
+            "strength": 8,
+            "toughness": 8,
+            "wounds": 28,
+            "attacks": 4,
+            "leadership": 9,
+            "armor_save": 2,
+            "abilities": "ion shields, super-heavy walker, code chivalric, explodes",
+            "point_value": 600,
+            "wargear": [
+                "conflagration cannon",
+                "thundercoil harpoon",
+                "twin meltagun",
+                "shieldbreaker missile",
+                "twin siegebreaker cannon",
+                "titanic feet"
+            ],
+            "wargear_options": [
+                "This model's 4 shieldbreaker missiles and twin siegebreaker cannon can be replaced with 2 shieldbreaker missiles and 2 twin siegebreaker cannons."
+            ],
+            "wargear_options_points": [
+                15
+            ],
+            "upgrades": [
+                "master of justice",
+                "high monarch",
+                "monarchsward",
+                "gatekeeper",
+                "herald",
+                "princeps",
+                "forge master",
+                "master tactician",
+                "master of lore",
+                "master of vox"
+            ],
+            "upgrades_points": [
+                30,
+                45,
+                35,
+                35,
+                20,
+                35,
+                30,
+                30,
+                35,
+                20
+            ],
+            "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108018_ImperialKnightValiant01.jpg"
+        },
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "canis rex",
+            "movement": 10,
+            "weapon_skill": 2,
+            "ballistic_skill": 2,
+            "strength": 8,
+            "toughness": 8,
+            "wounds": 24,
+            "attacks": 5,
+            "leadership": 9,
+            "armor_save": 3,
+            "abilities": "ion shields, super-heavy walker, mentor, sir hekhtur, code chivalric, explodes, chainbreaker, legendary freeblade",
+            "point_value": 440,
+            "wargear": [
+                "hekhtur's pistol",
+                "las-impulsor (low-intensity)",
+                "las-impulsor (high-intensity)",
+                "preceptor multi-laser",
+                "freedom's hand (Strike)",
+                "freedom's hand (Sweep)",
+                "titanic feet"
+            ],
+            "wargear_options": [
+            ],
+            "wargear_options_points": [
+            ],
+            "upgrades": [
+            ],
+            "upgrades_points": [
+            ],
+            "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108017_PreceptorLead.jpg"
+        },
+        {
+            "role": "lord of war",
+            "quantity": 1,
+            "name": "acastus knight aterius",
+            "movement": 8,
+            "weapon_skill": 4,
+            "ballistic_skill": 3,
+            "strength": 8,
+            "toughness": 8,
+            "wounds": 30,
+            "attacks": 3,
+            "leadership": 9,
+            "armor_save": 3,
+            "abilities": "ion shields, super-heavy walker, code chivalric, explodes",
+            "point_value": 750,
+            "wargear": [
+                "asterius volkite culverin",
+                "karacnos mortar battery",
+                "twin conversion beam cannon",
+                "titanic feet"
+            ],
+            "wargear_options": [
+            ],
+            "wargear_options_points": [
+            ],
+            "upgrades": [
+            ],
+            "upgrades_points": [
+            ],
+            "image": "https://www.forgeworld.co.uk/resources/catalog/product/920x950/99560108209_AcastusKnightAsterius01.jpg"
+        }
+    ]
+}
