@@ -2,7 +2,7 @@ import json
 
 from django.core.management.base import BaseCommand
 
-from ...models import UnitDatasheet, Wargear
+from ...models import UnitDatasheet, Wargear, AssociatedWargear
 
 class Command(BaseCommand):
 
@@ -46,6 +46,10 @@ class Command(BaseCommand):
                 upgrades_points=imperial_knight_unit['upgrades_points']
 
             )
+
+            for associated_wargear in imperial_knight_unit['wargear']:
+                associated_wargear_obj, created = AssociatedWargear.objects.get_or_create(associated_wargear=associated_wargear)
+                associated_wargear_obj.unit.add(imperial_knight_unit_obj)
 
         # Loop through units to add to DB
         for imperial_knight_wargear in imperial_knights_wargear_list['wargear']:

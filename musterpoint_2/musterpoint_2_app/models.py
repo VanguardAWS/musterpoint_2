@@ -17,9 +17,9 @@ class UnitDatasheet(models.Model):
     point_value = models.IntegerField()
     image = models.URLField(null = True, blank = True)
     wargear_options = models.CharField(max_length=500, null = True, blank = True)
-    wargear_options_points = models.IntegerField(null = True, blank = True)
+    wargear_options_points = models.CharField(max_length=200, null = True, blank = True)
     upgrades = models.CharField(max_length=500, null = True, blank = True)
-    upgrades_points = models.IntegerField(null = True, blank = True)
+    upgrades_points = models.CharField(max_length=200, null = True, blank = True)
     # wargear = the weapons associated with that unit
 
     def __str__(self):
@@ -36,6 +36,13 @@ class Wargear(models.Model):
 
     def __str__(self):
         return self.name
+    
+class AssociatedWargear(models.Model):
+    associated_wargear = models.CharField(max_length=100)
+    unit = models.ManyToManyField(UnitDatasheet, related_name='wargear')
+
+    def __str__(self):
+        return self.associated_wargear
 
 class List(models.Model):
     unit = models.ForeignKey(

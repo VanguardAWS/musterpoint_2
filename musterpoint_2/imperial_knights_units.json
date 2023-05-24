@@ -23,11 +23,11 @@
             ],
             "wargear_options": [
                 "If this unit has the QUESTOR MECHANICUS keyword, any number of models can each have their meltagun replaced with 1 Questor cognis heavy stubber.",
-                " If this unit has the QUESTOR IMPERIALIS keyword, any number of models can each have their meltagun replaced with 1 Questor ironhail heavy stubber."
+                "If this unit has the QUESTOR IMPERIALIS keyword, any number of models can each have their meltagun replaced with 1 Questor ironhail heavy stubber."
             ],
             "wargear_options_points": [
-                -5,
-                -5
+                "-5",
+                "-5"
             ],
             "upgrades": [
             ],
@@ -63,8 +63,8 @@
                 "If this unit has the QUESTOR IMPERIALIS keyword, any number of models can each have their meltagun replaced with 1 Questor ironhail heavy stubber."
             ],
             "wargear_options_points": [
-                -5,
-                -5
+                "-5",
+                "-5"
             ],  
             "upgrades": [
             ],
@@ -110,12 +110,12 @@
                 "1 twin Icarus autocannon."
             ],
             "wargear_options_points": [
-                -5,
-                -5,
-                0,
-                20,
-                40,
-                20
+                "-5",
+                "-5",
+                "0",
+                "20",
+                "40",
+                "20"
             ],
             "upgrades": [
                 "master of justice",
@@ -130,16 +130,16 @@
                 "master of vox"
             ],
             "upgrades_points": [
-                30,
-                45,
-                35,
-                35,
-                20,
-                35,
-                30,
-                30,
-                35,
-                20
+                "30",
+                "45",
+                "35",
+                "35",
+                "20",
+                "35",
+                "30",
+                "30",
+                "35",
+                "20"
             ],            
             "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108017_ErrantLead.jpg"
         },
@@ -182,12 +182,12 @@
                 "1 twin Icarus autocannon."
             ],
             "wargear_options_points": [
-                -5,
-                -5,
-                0,
-                20,
-                40,
-                20
+                "-5",
+                "-5",
+                "0",
+                "20",
+                "40",
+                "20"
             ],
             "upgrades": [
                 "master of justice",
@@ -202,16 +202,16 @@
                 "master of vox"
             ],
             "upgrades_points": [
-                30,
-                45,
-                35,
-                35,
-                20,
-                35,
-                30,
-                30,
-                35,
-                20
+                "30",
+                "45",
+                "35",
+                "35",
+                "20",
+                "35",
+                "30",
+                "30",
+                "35",
+                "20"
             ],  
             "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108017_WardenLead.jpg"
         },
@@ -253,13 +253,13 @@
                 "1 twin Icarus autocannon."
             ],
             "wargear_options_points": [
-                -5,
-                0,
-                -5,
-                0,
-                20,
-                40,
-                20
+                "-5",
+                "0",
+                "-5",
+                "0",
+                "20",
+                "40",
+                "20"
             ],  
             "upgrades": [
                 "master of justice",
@@ -274,16 +274,16 @@
                 "master of vox"
             ],
             "upgrades_points": [
-                30,
-                45,
-                35,
-                35,
-                20,
-                35,
-                30,
-                30,
-                35,
-                20
+                "30",
+                "45",
+                "35",
+                "35",
+                "20",
+                "35",
+                "30",
+                "30",
+                "35",
+                "20"
             ],
             "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108017_CrusaderLead.jpg"
         },
@@ -323,11 +323,11 @@
                 "1 twin Icarus autocannon."
             ],
             "wargear_options_points": [
-                -5,
-                -5,
-                20,
-                40,
-                20
+                "-5",
+                "-5",
+                "20",
+                "40",
+                "20"
             ],  
             "upgrades": [
                 "master of justice",
@@ -342,16 +342,16 @@
                 "master of vox"
             ],
             "upgrades_points": [
-                30,
-                45,
-                35,
-                35,
-                20,
-                35,
-                30,
-                30,
-                35,
-                20
+                "30",
+                "45",
+                "35",
+                "35",
+                "20",
+                "35",
+                "30",
+                "30",
+                "35",
+                "20"
             ],
             "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108017_GallantLead.jpg"
         },
@@ -393,12 +393,12 @@
                 "1 twin Icarus autocannon."
             ],
             "wargear_options_points": [
-                -5,
-                -5,
-                0,
-                20,
-                40,
-                20
+                "-5",
+                "-5",
+                "0",
+                "20",
+                "40",
+                "20"
             ],  
             "upgrades": [
                 "master of justice",
@@ -413,16 +413,16 @@
                 "master of vox"
             ],
             "upgrades_points": [
-                30,
-                45,
-                35,
-                35,
-                20,
-                35,
-                30,
-                30,
-                35,
-                20
+                "30",
+                "45",
+                "35",
+                "35",
+                "20",
+                "35",
+                "30",
+                "30",
+                "35",
+                "20"
             ],
             "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108017_PaladinLead.jpg"
         },
@@ -466,12 +466,12 @@
                 "1 twin Icarus autocannon."
             ],
             "wargear_options_points": [
-                -5,
-                -5,
-                0,
-                20,
-                40,
-                20
+                "-5",
+                "-5",
+                "0",
+                "20",
+                "40",
+                "20"
             ],
             "upgrades": [
                 "master of justice",
@@ -486,16 +486,16 @@
                 "master of vox"
             ],
             "upgrades_points": [
-                30,
-                45,
-                35,
-                35,
-                20,
-                35,
-                30,
-                30,
-                35,
-                20
+                "30",
+                "45",
+                "35",
+                "35",
+                "20",
+                "35",
+                "30",
+                "30",
+                "35",
+                "20"
             ],
             "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108018_ImperialKnightValiant01.jpg"
         },
@@ -527,7 +527,7 @@
                 "This model's 4 shieldbreaker missiles and twin siegebreaker cannon can be replaced with 2 shieldbreaker missiles and 2 twin siegebreaker cannons."
             ],
             "wargear_options_points": [
-                15
+                "15"
             ],
             "upgrades": [
                 "master of justice",
@@ -542,16 +542,16 @@
                 "master of vox"
             ],
             "upgrades_points": [
-                30,
-                45,
-                35,
-                35,
-                20,
-                35,
-                30,
-                30,
-                35,
-                20
+                "30",
+                "45",
+                "35",
+                "35",
+                "20",
+                "35",
+                "30",
+                "30",
+                "35",
+                "20"
             ],
             "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108016_IKCastellan01.jpg"
         },
@@ -582,7 +582,7 @@
                 "This model's 4 shieldbreaker missiles and twin siegebreaker cannon can be replaced with 2 shieldbreaker missiles and 2 twin siegebreaker cannons."
             ],
             "wargear_options_points": [
-                15
+                "15"
             ],
             "upgrades": [
                 "master of justice",
@@ -597,16 +597,16 @@
                 "master of vox"
             ],
             "upgrades_points": [
-                30,
-                45,
-                35,
-                35,
-                20,
-                35,
-                30,
-                30,
-                35,
-                20
+                "30",
+                "45",
+                "35",
+                "35",
+                "20",
+                "35",
+                "30",
+                "30",
+                "35",
+                "20"
             ],
             "image": "https://www.games-workshop.com/resources/catalog/product/920x950/99120108018_ImperialKnightValiant01.jpg"
         },
