@@ -1,13 +1,35 @@
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>{% block title %}Base{% endblock %}</title>
-</head>
-<body>
-  <main>
-    {% block content %}
-    {% endblock %}
-  </main>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.1.2/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <title>MusterPoint</title>
+  </head>
+  <body>
+    <div id="api">
+      
+      {% block content %}
+      {% if user.is_authenticated %}
+      
+      <h1>Musterpoint</h1>
+  
+      Hi {{ user.username }}!
+  <p><a href="{% url 'logout' %}">Log Out</a></p>
+    <div v-for="unit in imperialKnightsUnitsList">
+      <img v-bind:src="[[unit.image]]"/>
+    </div>
+  </div>
+
+  {% else %}
+  <p>You are not logged in</p>
+  <a href="{% url 'login' %}">Log In</a> |
+  <a href="{% url 'signup' %}">Sign Up</a>
+  {% endif %}
+  {% endblock %}
 </body>
+<script src="static/site.js"></script>
 </html>

@@ -1,4 +1,5 @@
 from django.db import models
+from django.utils import timezone
 
 class UnitDatasheet(models.Model):
     role = models.CharField(max_length=50, null = True, blank = True)
@@ -45,11 +46,12 @@ class AssociatedWargear(models.Model):
         return self.associated_wargear
 
 class List(models.Model):
-    unit = models.ForeignKey(
-        UnitDatasheet,
-        on_delete=models.CASCADE,
-    )
+    title = models.CharField(max_length=100, null = True, blank = True)
+    total_points = models.IntegerField(null = True, blank = True)
+    unit = models.ForeignKey(UnitDatasheet, on_delete=models.CASCADE)
     owner = models.ForeignKey('accounts.CustomUser', on_delete=models.CASCADE)
+    created = models.DateTimeField(auto_now_add=True, null = True, blank = True)
+    updated = models.DateTimeField(auto_now=True, null = True, blank = True)
 
     def __str__(self):
         return self.owner
